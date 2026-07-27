@@ -1,8 +1,8 @@
 # Hi there, I'm Vhugala Mathivha 👋
 
 ### 🚀 Software Dev | Final-Year Computer Science Student @ TUT 
-**AWS Cloud Foundations Training | Oracle Cloud DevOps Professional Certified**
-**SheCodes Advanced Web Development Alumni**
+**AWS Cloud Foundations Training | Oracle Cloud DevOps Professional Certified
+SheCodes Advanced Web Development Alumni**
 
 I am a results-driven Computer Science student at the Tshwane University of Technology. I specialize in building production-ready, full-stack applications that integrate **Artificial Intelligence** with **Robust Security**. My goal is to develop scalable systems that prioritize user safety and high performance.
 
