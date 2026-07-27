@@ -21,8 +21,10 @@ I am a results-driven Computer Science student at the Tshwane University of Tech
 
 
 
-![Vhugala's Stats](https://github-readme-stats.vercel.app/api?username=VHUGALA-MATHIVHA&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VHUGALA-MATHIVHA&layout=compact&theme=dark)
+### 📊 GitHub Pulse
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=VHUGALA-MATHIVHA&show_icons=true&theme=tokyonight" alt="Stats" />
+</p>
 
 
 ### 📫 Connect with me:
