@@ -21,13 +21,8 @@ I am a results-driven Computer Science student at the Tshwane University of Tech
 
 
 
-### 📊 GitHub Pulse
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VHUGALA-MATHIVHA&show_icons=true&theme=tokyonight" alt="Stats" />
-</p>
-
 
 ### 📫 Connect with me:
-- **Email:** vhugalamathivha@gmail.com
-- **LinkedIn:** [linkedin.com/in/vhugala-mathivha](http://linkedin.com/in/vhugala-mathivha)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vhugala-mathivha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhugalamathivha@gmail.com)
