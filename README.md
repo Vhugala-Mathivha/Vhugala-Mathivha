@@ -1,6 +1,6 @@
 # Hi there, I'm Vhugala Mathivha 👋
 
-### 🚀 Software Dev | Final-Year Computer Science Student @ TUT 
+### 🎓 Software Dev | Final-Year Computer Science Student @ TUT 
 **AWS Cloud Foundations Training | Oracle Cloud DevOps Professional Certified | 
 SheCodes Advanced Web Development Alumni**
 
@@ -9,7 +9,6 @@ I am a results-driven Computer Science student at the Tshwane University of Tech
 ---
 
 ### 🛠️ Technical Arsenal
-
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Java, Python, JavaScript, TypeScript, Kotlin, SQL, PL/SQL |
@@ -22,7 +21,7 @@ I am a results-driven Computer Science student at the Tshwane University of Tech
 
 
 
-### 📫 Connect with me:
+### 🔌 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vhugala-mathivha)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vhugalamathivha@gmail.com)
