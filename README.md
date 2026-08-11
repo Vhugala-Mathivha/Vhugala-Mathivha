@@ -13,11 +13,11 @@ I am a results-driven Computer Science student at the Tshwane University of Tech
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | Java, Python, JavaScript, TypeScript, Kotlin, SQL, PL/SQL |
-| **Frontend** | React.js, Vite, Create React App, Tailwind, CSS, HTML5/CSS3 |
+| **Frontend** | React.js, Vite, Create React App, CSS, HTML5/CSS3 |
 | **Backend** | Rest API, FastAPI, Flask, Django, JPA, JPQL, MVC |
 | **Cloud & DevOps** | AWS, Oracle Cloud (OCI), Docker, Kubernetes, CI/CD, Render, Vercel |
 | **Databases** | MySQL, Oracle Database, Aiven Console |
-| **AI & Biometrics** | Face-API.js, Web Speech API, Liveness Detection |
+| **AI & Biometrics** | Face-API.js, Web Speech API, Liveness Detection, Facial Recognition|
 
 
 
