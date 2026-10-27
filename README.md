@@ -3,15 +3,7 @@
 
 I'm a Full Stack Developer and final-year Computer Science student at the Tshwane University of Technology, currently interning at ICEP. I enjoy owning a system end-to-end, from ERD and database design through to backend, frontend and cloud deployment, and I'm especially drawn to products where AI meets security and user safety.
 
-💼  Building a facial-recognition attendance system in a 15+ person Agile team at ICEP
-🔐  Passionate about biometrics, identity verification and secure-by-design software
-☁️  Certified in AWS Cloud Foundations and Oracle Cloud DevOps Professional
-
-💗 Featured Projects
-Project	What it does	Built with
-Employee Attendance & Facial Recognition System	Webcam-based face registration and verification for clock-in/out, automatic attendance records, HR absence alerts and downloadable reports	C# · ASP.NET 9 · React · Vite · PostgreSQL · Docker · Render · Vercel · Aiven
-SecureRide	AI-powered identity verification for e-hailing: ID upload, consent and live facial scans, plus in-trip danger keyword and scream detection	Python · JavaScript · Face-API.js · MySQL · Docker · Google Maps API
-🛠️ Tech Stack
+<ul> <li>💼 &nbsp;Building a facial-recognition attendance system in a 15+ person Agile team at <b>ICEP</b></li> <li>🔐 &nbsp;Passionate about biometrics, identity verification and secure-by-design software</li> <li>☁️ &nbsp;Certified in <b>AWS Cloud Foundations</b> and <b>Oracle Cloud DevOps Professional</b></li> <li>🎯 &nbsp;Looking for a <b>2027 graduate or internship programme</b> in a technology-driven team</li> </ul> <hr /> <h2>💗 Featured Projects</h2> <table> <tr> <th align="left">Project</th> <th align="left">What it does</th> <th align="left">Built with</th> </tr> <tr> <td><b><a href="https://biolog-testing.vercel.app">Employee Attendance &amp; Facial Recognition System</a></b></td> <td>Webcam-based face registration and verification for clock-in/out, automatic attendance records, HR absence alerts and downloadable reports</td> <td>C# · ASP.NET 9 · React · Vite · PostgreSQL · Docker · Render · Vercel · Aiven</td> </tr> <tr> <td><b><a href="https://secure-ride-zeta.vercel.app">SecureRide</a></b></td> <td>AI-powered identity verification for e-hailing: ID upload, consent and live facial scans, plus in-trip danger keyword and scream detection</td> <td>Python · JavaScript · Face-API.js · MySQL · Docker · Google Maps API</td> </tr> </table> <hr /> <h2>🛠️ Tech Stack</h2>
 
 Languages
 
