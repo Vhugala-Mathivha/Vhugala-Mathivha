@@ -3,7 +3,15 @@
 
 I'm a Software Developer and final-year Computer Science student at the Tshwane University of Technology, currently interning at ICEP. I enjoy owning a system end-to-end, from ERD and database design through to backend, frontend and cloud deployment, and I'm especially drawn to products where AI meets security and user safety.
 
-<ul> <li>🎀 &nbsp;Building a facial-recognition attendance system in a 15+ person Agile team at <b>ICEP</b></li> <li>🎀 &nbsp;Passionate about biometrics, identity verification and secure-by-design software</li> <li>🎀 &nbsp;Certified in <b>AWS Cloud Foundations</b> and <b>Oracle Cloud DevOps Professional</b></li>  </ul> <hr /> <h2>💗 Featured Projects</h2> <table> <tr> <th align="left">Project</th> <th align="left">What it does</th> <th align="left">Built with</th> </tr> <tr> <td><b><a href="https://biolog-testing.vercel.app">Employee Attendance &amp; Facial Recognition System</a></b></td> <td>Webcam-based face registration and verification for clock-in/out, automatic attendance records, HR absence alerts and downloadable reports</td> <td>C# · ASP.NET 9 · React · Vite · PostgreSQL · Docker · Render · Vercel · Aiven</td> </tr> <tr> <td><b><a href="https://secure-ride-zeta.vercel.app">SecureRide</a></b></td> <td>AI-powered identity verification for e-hailing: ID upload, consent and live facial scans, plus in-trip danger keyword and scream detection</td> <td>Python · JavaScript · Face-API.js · MySQL · Docker · Google Maps API</td> </tr> </table> <hr /> <h2>🛠️ Tech Stack</h2>
+<ul> <li>🎀 &nbsp;Building a facial-recognition attendance system in a 15+ person Agile team at <b>ICEP</b></li> <li>🎀 &nbsp;Passionate about biometrics, identity verification and secure-by-design software</li> <li>🎀 &nbsp;Certified in <b>AWS Cloud Foundations</b> and <b>Oracle Cloud DevOps Professional</b></li>  </ul> <hr /> <h2>✨ Web Design Work</h2>
+
+<p align="center">
+  <a href="https://wilmac-insurances.vercel.app/"><img src="./assets/wilmac.png" width="32%" alt="Wilmac Insurances — insurance website" /></a>
+  <a href="https://pure-beauty-five.vercel.app/"><img src="./assets/pure-beauty.png" width="32%" alt="Pure Beauty — skincare and cosmetics e-commerce site" /></a>
+  <a href="https://lure-weddings-w8jl.vercel.app/"><img src="./assets/lure-weddings.png" width="32%" alt="LURE Weddings — AI-assisted wedding planning site" /></a>
+</p>
+
+<hr /> <hr /> <h2>🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="./assets/tech-stack.svg" width="100%" alt="Tech stack — Languages: C#, Java, Python, JavaScript, TypeScript, Kotlin, SQL, PL/SQL. Frontend: React, Vite, HTML5, CSS3. Backend: ASP.NET, REST APIs, Node.js, FastAPI, Flask, Django. Databases: PostgreSQL, MySQL, Oracle Database, Aiven. Cloud & DevOps: AWS, Oracle Cloud (OCI), Docker, Kubernetes, CI/CD, Linux, Vercel, Render. Tools: Git, GitHub, GitHub Actions, VS Code, Postman. AI & Biometrics: Face-API.js, Facial Recognition, Liveness Detection, Web Speech API." />
