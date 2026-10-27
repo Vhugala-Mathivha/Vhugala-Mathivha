@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="574" viewBox="0 0 880 574" role="img" aria-label="Tech stack">
+<defs>
+<linearGradient id="cardBg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2A1424"/><stop offset="1" stop-color="#1A0E1A"/></linearGradient>
+<radialGradient id="glow" cx="0.1" cy="0.1" r="0.7"><stop offset="0" stop-color="#E75480" stop-opacity="0.25"/><stop offset="1" stop-color="#E75480" stop-opacity="0"/></radialGradient>
+<linearGradient id="rose" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F8C8DC"/><stop offset="1" stop-color="#E75480"/></linearGradient>
+<linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="0" y2="0">
+<stop offset="0" stop-color="#E75480" stop-opacity="0"/><stop offset="0.5" stop-color="#FFD6E7" stop-opacity="1"/><stop offset="1" stop-color="#E75480" stop-opacity="0"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1180 0" dur="4.5s" repeatCount="indefinite"/></linearGradient>
+</defs>
+<style>
+text{font-family:"Segoe UI",-apple-system,Helvetica,Arial,sans-serif}
+.card{animation:rise .9s cubic-bezier(.2,.8,.2,1) both}
+.chip{animation:pop .5s ease-out both}
+.label{font-size:11px;font-weight:700;fill:#F8A5C2;letter-spacing:2.5px}
+.count{font-size:11px;font-weight:700;fill:#8E6577;letter-spacing:1px}
+.t{font-size:13px;font-weight:600;fill:#FFE4EE}
+.dot{animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pop{from{opacity:0}to{opacity:1}}
+@keyframes pulse{0%,100%{opacity:.45;transform:scale(.75)}50%{opacity:1;transform:scale(1.15)}}
+</style>
+<g transform="translate(0.0,0.0)"><g class="card" style="animation-delay:0.00s">
+<rect width="430.0" height="138.0" rx="16" fill="url(#cardBg)"/><rect width="430.0" height="138.0" rx="16" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="#E75480" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="url(#shine)" stroke-width="1.5"/>
+<circle cx="24" cy="27" r="4" fill="url(#rose)" class="dot" style="animation-delay:0.00s"/>
+<text x="36" y="31" class="label">LANGUAGES</text>
+<text x="410.0" y="31" text-anchor="end" class="count">08</text>
+<line x1="20" y1="40" x2="410.0" y2="40" stroke="#E75480" stroke-opacity=".18"/>
+<g class="chip" style="animation-delay:0.40s"><rect x="20.0" y="52" width="44.6" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="42.3" y="70.5" text-anchor="middle" class="t">C#</text></g>
+<g class="chip" style="animation-delay:0.46s"><rect x="72.6" y="52" width="51.5" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="98.3" y="70.5" text-anchor="middle" class="t">Java</text></g>
+<g class="chip" style="animation-delay:0.52s"><rect x="132.1" y="52" width="67.9" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="166.0" y="70.5" text-anchor="middle" class="t">Python</text></g>
+<g class="chip" style="animation-delay:0.58s"><rect x="208.0" y="52" width="86.6" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="251.3" y="70.5" text-anchor="middle" class="t">JavaScript</text></g>
+<g class="chip" style="animation-delay:0.64s"><rect x="302.6" y="52" width="88.8" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="347.0" y="70.5" text-anchor="middle" class="t">TypeScript</text></g>
+<g class="chip" style="animation-delay:0.70s"><rect x="20.0" y="90" width="59.8" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="49.9" y="108.5" text-anchor="middle" class="t">Kotlin</text></g>
+<g class="chip" style="animation-delay:0.76s"><rect x="87.8" y="90" width="49.9" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="112.8" y="108.5" text-anchor="middle" class="t">SQL</text></g>
+<g class="chip" style="animation-delay:0.82s"><rect x="145.8" y="90" width="68.0" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="179.8" y="108.5" text-anchor="middle" class="t">PL/SQL</text></g>
+</g></g>
+<g transform="translate(450.0,0.0)"><g class="card" style="animation-delay:0.12s">
+<rect width="430.0" height="138.0" rx="16" fill="url(#cardBg)"/><rect width="430.0" height="138.0" rx="16" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="#E75480" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="url(#shine)" stroke-width="1.5"/>
+<circle cx="24" cy="27" r="4" fill="url(#rose)" class="dot" style="animation-delay:0.35s"/>
+<text x="36" y="31" class="label">FRONTEND</text>
+<text x="410.0" y="31" text-anchor="end" class="count">04</text>
+<line x1="20" y1="40" x2="410.0" y2="40" stroke="#E75480" stroke-opacity=".18"/>
+<g class="chip" style="animation-delay:0.52s"><rect x="20.0" y="52" width="60.1" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="50.0" y="70.5" text-anchor="middle" class="t">React</text></g>
+<g class="chip" style="animation-delay:0.58s"><rect x="88.1" y="52" width="49.5" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="112.9" y="70.5" text-anchor="middle" class="t">Vite</text></g>
+<g class="chip" style="animation-delay:0.64s"><rect x="145.6" y="52" width="67.3" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="179.3" y="70.5" text-anchor="middle" class="t">HTML5</text></g>
+<g class="chip" style="animation-delay:0.70s"><rect x="221.0" y="52" width="57.5" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="249.7" y="70.5" text-anchor="middle" class="t">CSS3</text></g>
+</g></g>
+<g transform="translate(0.0,158.0)"><g class="card" style="animation-delay:0.24s">
+<rect width="430.0" height="138.0" rx="16" fill="url(#cardBg)"/><rect width="430.0" height="138.0" rx="16" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="#E75480" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="url(#shine)" stroke-width="1.5"/>
+<circle cx="24" cy="27" r="4" fill="url(#rose)" class="dot" style="animation-delay:0.70s"/>
+<text x="36" y="31" class="label">BACKEND</text>
+<text x="410.0" y="31" text-anchor="end" class="count">06</text>
+<line x1="20" y1="40" x2="410.0" y2="40" stroke="#E75480" stroke-opacity=".18"/>
+<g class="chip" style="animation-delay:0.64s"><rect x="20.0" y="52" width="75.2" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="57.6" y="70.5" text-anchor="middle" class="t">ASP.NET</text></g>
+<g class="chip" style="animation-delay:0.70s"><rect x="103.2" y="52" width="86.3" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="146.4" y="70.5" text-anchor="middle" class="t">REST APIs</text></g>
+<g class="chip" style="animation-delay:0.76s"><rect x="197.6" y="52" width="71.0" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="233.1" y="70.5" text-anchor="middle" class="t">Node.js</text></g>
+<g class="chip" style="animation-delay:0.82s"><rect x="276.6" y="52" width="69.4" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="311.3" y="70.5" text-anchor="middle" class="t">FastAPI</text></g>
+<g class="chip" style="animation-delay:0.88s"><rect x="20.0" y="90" width="57.0" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="48.5" y="108.5" text-anchor="middle" class="t">Flask</text></g>
+<g class="chip" style="animation-delay:0.94s"><rect x="85.0" y="90" width="68.8" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="119.4" y="108.5" text-anchor="middle" class="t">Django</text></g>
+</g></g>
+<g transform="translate(450.0,158.0)"><g class="card" style="animation-delay:0.36s">
+<rect width="430.0" height="138.0" rx="16" fill="url(#cardBg)"/><rect width="430.0" height="138.0" rx="16" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="#E75480" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="url(#shine)" stroke-width="1.5"/>
+<circle cx="24" cy="27" r="4" fill="url(#rose)" class="dot" style="animation-delay:1.05s"/>
+<text x="36" y="31" class="label">DATABASES</text>
+<text x="410.0" y="31" text-anchor="end" class="count">04</text>
+<line x1="20" y1="40" x2="410.0" y2="40" stroke="#E75480" stroke-opacity=".18"/>
+<g class="chip" style="animation-delay:0.76s"><rect x="20.0" y="52" width="95.0" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="67.5" y="70.5" text-anchor="middle" class="t">PostgreSQL</text></g>
+<g class="chip" style="animation-delay:0.82s"><rect x="123.0" y="52" width="67.5" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="156.8" y="70.5" text-anchor="middle" class="t">MySQL</text></g>
+<g class="chip" style="animation-delay:0.88s"><rect x="198.6" y="52" width="126.9" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="262.0" y="70.5" text-anchor="middle" class="t">Oracle Database</text></g>
+<g class="chip" style="animation-delay:0.94s"><rect x="333.4" y="52" width="59.9" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="363.4" y="70.5" text-anchor="middle" class="t">Aiven</text></g>
+</g></g>
+<g transform="translate(0.0,316.0)"><g class="card" style="animation-delay:0.48s">
+<rect width="430.0" height="138.0" rx="16" fill="url(#cardBg)"/><rect width="430.0" height="138.0" rx="16" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="#E75480" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="url(#shine)" stroke-width="1.5"/>
+<circle cx="24" cy="27" r="4" fill="url(#rose)" class="dot" style="animation-delay:1.40s"/>
+<text x="36" y="31" class="label">CLOUD &amp; DEVOPS</text>
+<text x="410.0" y="31" text-anchor="end" class="count">08</text>
+<line x1="20" y1="40" x2="410.0" y2="40" stroke="#E75480" stroke-opacity=".18"/>
+<g class="chip" style="animation-delay:0.88s"><rect x="20.0" y="52" width="53.2" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="46.6" y="70.5" text-anchor="middle" class="t">AWS</text></g>
+<g class="chip" style="animation-delay:0.94s"><rect x="81.2" y="52" width="138.5" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="150.5" y="70.5" text-anchor="middle" class="t">Oracle Cloud (OCI)</text></g>
+<g class="chip" style="animation-delay:1.00s"><rect x="227.7" y="52" width="68.3" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="261.9" y="70.5" text-anchor="middle" class="t">Docker</text></g>
+<g class="chip" style="animation-delay:1.06s"><rect x="304.1" y="52" width="94.4" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="351.3" y="70.5" text-anchor="middle" class="t">Kubernetes</text></g>
+<g class="chip" style="animation-delay:1.12s"><rect x="20.0" y="90" width="59.8" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="49.9" y="108.5" text-anchor="middle" class="t">CI/CD</text></g>
+<g class="chip" style="animation-delay:1.18s"><rect x="87.8" y="90" width="58.6" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="117.1" y="108.5" text-anchor="middle" class="t">Linux</text></g>
+<g class="chip" style="animation-delay:1.24s"><rect x="154.4" y="90" width="62.9" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="185.8" y="108.5" text-anchor="middle" class="t">Vercel</text></g>
+<g class="chip" style="animation-delay:1.30s"><rect x="225.3" y="90" width="69.0" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="259.8" y="108.5" text-anchor="middle" class="t">Render</text></g>
+</g></g>
+<g transform="translate(450.0,316.0)"><g class="card" style="animation-delay:0.60s">
+<rect width="430.0" height="138.0" rx="16" fill="url(#cardBg)"/><rect width="430.0" height="138.0" rx="16" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="#E75480" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="428.5" height="136.5" rx="16" fill="none" stroke="url(#shine)" stroke-width="1.5"/>
+<circle cx="24" cy="27" r="4" fill="url(#rose)" class="dot" style="animation-delay:1.75s"/>
+<text x="36" y="31" class="label">TOOLS</text>
+<text x="410.0" y="31" text-anchor="end" class="count">05</text>
+<line x1="20" y1="40" x2="410.0" y2="40" stroke="#E75480" stroke-opacity=".18"/>
+<g class="chip" style="animation-delay:1.00s"><rect x="20.0" y="52" width="43.5" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="41.7" y="70.5" text-anchor="middle" class="t">Git</text></g>
+<g class="chip" style="animation-delay:1.06s"><rect x="71.5" y="52" width="67.9" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="105.4" y="70.5" text-anchor="middle" class="t">GitHub</text></g>
+<g class="chip" style="animation-delay:1.12s"><rect x="147.4" y="52" width="115.9" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="205.3" y="70.5" text-anchor="middle" class="t">GitHub Actions</text></g>
+<g class="chip" style="animation-delay:1.18s"><rect x="271.2" y="52" width="76.7" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="309.6" y="70.5" text-anchor="middle" class="t">VS Code</text></g>
+<g class="chip" style="animation-delay:1.24s"><rect x="20.0" y="90" width="78.1" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="59.1" y="108.5" text-anchor="middle" class="t">Postman</text></g>
+</g></g>
+<g transform="translate(0.0,474.0)"><g class="card" style="animation-delay:0.72s">
+<rect width="880.0" height="100.0" rx="16" fill="url(#cardBg)"/><rect width="880.0" height="100.0" rx="16" fill="url(#glow)"/>
+<rect x=".75" y=".75" width="878.5" height="98.5" rx="16" fill="none" stroke="#E75480" stroke-opacity=".4" stroke-width="1.5"/>
+<rect x=".75" y=".75" width="878.5" height="98.5" rx="16" fill="none" stroke="url(#shine)" stroke-width="1.5"/>
+<circle cx="24" cy="27" r="4" fill="url(#rose)" class="dot" style="animation-delay:2.10s"/>
+<text x="36" y="31" class="label">AI &amp; BIOMETRICS</text>
+<text x="860.0" y="31" text-anchor="end" class="count">04</text>
+<line x1="20" y1="40" x2="860.0" y2="40" stroke="#E75480" stroke-opacity=".18"/>
+<g class="chip" style="animation-delay:1.12s"><rect x="20.0" y="52" width="90.1" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="65.0" y="70.5" text-anchor="middle" class="t">Face-API.js</text></g>
+<g class="chip" style="animation-delay:1.18s"><rect x="118.1" y="52" width="135.0" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="185.6" y="70.5" text-anchor="middle" class="t">Facial Recognition</text></g>
+<g class="chip" style="animation-delay:1.24s"><rect x="261.1" y="52" width="140.9" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="331.6" y="70.5" text-anchor="middle" class="t">Liveness Detection</text></g>
+<g class="chip" style="animation-delay:1.30s"><rect x="410.0" y="52" width="123.7" height="28" rx="14" fill="#E75480" fill-opacity=".14" stroke="#E75480" stroke-opacity=".55"/><text x="471.9" y="70.5" text-anchor="middle" class="t">Web Speech API</text></g>
+</g></g>
+</svg>
