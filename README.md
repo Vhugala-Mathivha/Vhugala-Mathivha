@@ -28,7 +28,7 @@ I'm a Software Developer and final-year Computer Science student at the Tshwane 
 <h2>💌 Get in Touch</h2>
 
 <p align="center">
-  <i>I'd love to hear from you.</i>
+  <i>🎀I'd love to hear from you.🎀</i>
 </p>
 
 <p align="center">
