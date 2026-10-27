@@ -23,4 +23,17 @@ I'm a Software Developer and final-year Computer Science student at the Tshwane 
   <img src="./assets/certifications.svg" width="100%" alt="Certifications: AWS Cloud Foundations (2026), Oracle Cloud DevOps Professional (2025), Python for Everybody – University of Michigan / Coursera (2025), SheCodes Advanced Web Development (2025), SheCodes Artificial Intelligence (2025)" />
 </p>
 
-<hr /> <p align="center"> <i>"Building technology that keeps people safe, one commit at a time."</i> 🌷 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E75480,100:F8C8DC&height=110&section=footer" alt="Footer" /> </p>
+<hr /> <p align="center"> <i>"Building technology that keeps people safe, one commit at a time."</i> 🌷 </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E75480,100:F8C8DC&height=110&section=footer" alt="Footer" /> </p><hr />
+
+<h2>💌 Get in Touch</h2>
+
+<p align="center">
+  <i>Open to 2027 graduate and internship opportunities. I'd love to hear from you.</i>
+</p>
+
+<p align="center">
+  <a href="mailto:vhugalamathivha@gmail.com"><img src="https://img.shields.io/badge/vhugalamathivha@gmail.com-E75480?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: vhugalamathivha@gmail.com" /></a>
+  <a href="tel:+27790457908"><img src="https://img.shields.io/badge/079_045_7908-F8C8DC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTYuNjIgMTAuNzljMS40NCAyLjgzIDMuNzYgNS4xNCA2LjU5IDYuNTlsMi4yLTIuMmMuMjctLjI3LjY3LS4zNiAxLjAyLS4yNCAxLjEyLjM3IDIuMzMuNTcgMy41Ny41Ny41NSAwIDEgLjQ1IDEgMVYyMGMwIC41NS0uNDUgMS0xIDEtOS4zOSAwLTE3LTcuNjEtMTctMTcgMC0uNTUuNDUtMSAxLTFoMy41Yy41NSAwIDEgLjQ1IDEgMSAwIDEuMjUuMiAyLjQ1LjU3IDMuNTcuMTEuMzUuMDMuNzQtLjI1IDEuMDJsLTIuMiAyLjJ6Ii8%2BPC9zdmc%2B&labelColor=E75480" alt="Phone: 079 045 7908" /></a>
+</p>
+
+<hr />
