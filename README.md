@@ -28,7 +28,7 @@ I'm a Software Developer and final-year Computer Science student at the Tshwane 
 <h2>💌 Get in Touch</h2>
 
 <p align="center">
-  <i>Open to 2027 graduate and internship opportunities. I'd love to hear from you.</i>
+  <i>I'd love to hear from you.</i>
 </p>
 
 <p align="center">
